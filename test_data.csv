@@ -1,0 +1,6 @@
+id,customer,content_type,message
+1,Cliente_001,ticket,Tengo problemas para iniciar sesión en la plataforma. El sistema no me reconoce mi contraseña y no puedo acceder a mis datos de vacaciones.
+2,Cliente_002,conversation,Necesito saber cuántos días de vacaciones me quedan. La información en el sistema no está actualizada.
+3,Cliente_003,suggestion,Sería genial que agregaran una funcionalidad de notificaciones push para recordar el vencimiento de vacaciones.
+4,Cliente_004,ticket,El reporte de ausencias no se está generando correctamente. Cuando trato de descargarlo sale un error 500.
+5,Cliente_005,conversation,¿Pueden mejorar la interfaz del módulo de solicitud de permisos? Es muy confusa y toma mucho tiempo completar una solicitud.
