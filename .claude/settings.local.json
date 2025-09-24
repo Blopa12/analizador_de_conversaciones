@@ -10,7 +10,8 @@
       "Bash(curl:*)",
       "Bash(git add:*)",
       "Bash(git restore:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch -r venv/' --prune-empty --tag-name-filter cat -- --all)"
     ],
     "deny": [],
     "ask": []
